@@ -1,0 +1,36 @@
+body
+{
+    background-image: url("house1.png");
+    background-size: cover;
+    background-position: center;
+    font-family: lato;
+}
+html
+{
+    height: 100%;
+}
+.details
+{
+    padding-top: 2%;
+    padding-left: 12%;
+    padding-right: 12%;
+    color: black;
+    font-weight: 800;
+    font-family: lato;
+}
+#main_content 
+{
+    text-align: center;
+    padding-top: 3%;
+}
+h1
+{
+    color:rgb(73, 86, 207);
+    font-size: 5em;
+    font-weight: 700;
+}
+h3
+{
+    color:rgb(73, 86, 207);
+    font-weight: 700;
+}
